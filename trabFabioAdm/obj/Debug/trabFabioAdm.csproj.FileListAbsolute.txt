@@ -1,0 +1,16 @@
+C:\Users\v\Documents\SharpDevelop Projects\trabFabioAdm\trabFabioAdm\bin\Debug\trabFabioAdm.exe.config
+C:\Users\v\Documents\SharpDevelop Projects\trabFabioAdm\trabFabioAdm\bin\Debug\trabFabioAdm.exe
+C:\Users\v\Documents\SharpDevelop Projects\trabFabioAdm\trabFabioAdm\bin\Debug\trabFabioAdm.pdb
+C:\Users\v\Documents\SharpDevelop Projects\trabFabioAdm\trabFabioAdm\obj\Debug\trabFabioAdm.exe
+C:\Users\v\Documents\SharpDevelop Projects\trabFabioAdm\trabFabioAdm\obj\Debug\trabFabioAdm.pdb
+C:\Users\v\Documents\SharpDevelop Projects\trabFabioAdm\trabFabioAdm\obj\Debug\trabFabioAdm.frmPrincipal.resources
+C:\Users\v\Documents\SharpDevelop Projects\trabFabioAdm\trabFabioAdm\obj\Debug\trabFabioAdm.csproj.GenerateResource.Cache
+C:\Users\v\Documents\SharpDevelop Projects\trabFabioAdm\trabFabioAdm\obj\Debug\trabFabioAdm.frmUsuario.resources
+Z:\media\vinicius\864C7F594C7F434B\Users\v\Documents\SharpDevelop Projects\trabFabioAdm\trabFabioAdm\obj\Debug\trabFabioAdm.csprojResolveAssemblyReference.cache
+Z:\media\vinicius\864C7F594C7F434B\Users\v\Documents\SharpDevelop Projects\trabFabioAdm\trabFabioAdm\obj\Debug\trabFabioAdm.frmPrincipal.resources
+Z:\media\vinicius\864C7F594C7F434B\Users\v\Documents\SharpDevelop Projects\trabFabioAdm\trabFabioAdm\obj\Debug\trabFabioAdm.frmUsuario.resources
+Z:\media\vinicius\864C7F594C7F434B\Users\v\Documents\SharpDevelop Projects\trabFabioAdm\trabFabioAdm\obj\Debug\trabFabioAdm.csproj.GenerateResource.Cache
+Z:\media\vinicius\864C7F594C7F434B\Users\v\Documents\SharpDevelop Projects\trabFabioAdm\trabFabioAdm\obj\Debug\trabFabioAdm.exe
+Z:\media\vinicius\864C7F594C7F434B\Users\v\Documents\SharpDevelop Projects\trabFabioAdm\trabFabioAdm\obj\Debug\trabFabioAdm.pdb
+C:\Users\v\Documents\SharpDevelop Projects\trabFabioAdm\trabFabioAdm\obj\Debug\trabFabioAdm.csproj.CoreCompileInputs.cache
+C:\Users\v\Documents\SharpDevelop Projects\trabFabioAdm\trabFabioAdm\obj\Debug\trabFabioAdm.frmTelaUsuarios.resources
